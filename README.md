@@ -7,7 +7,7 @@ Para isso foi utilizado as seguintes ferramentas / For this, the following tools
   
 - setoolkit ( Uma poderosa suíte de código aberto projetada para auxiliar os profissionais de segurança a realizar testes de engenharia social / a powerful open-source suite designed to assist security professionals in conducting social engineering tests.
 
-O stoolkit possui uma interface simples basta escolher as opções desejadas e o software faz todo o trabalho / The toolkit has a simple interface; you just need to select the desired options, and the software does all the work.
+O stoolkit possui uma interface simples basta escolher as opções desejadas e o software faz todo o trabalho / The stoolkit has a simple interface; you just need to select the desired options, and the software does all the work.
 
 Phishing criado :
 
@@ -28,3 +28,5 @@ Para se proteger dessas Ameaças vai algumas dicas :
 - Usar autenticação de múltiplos fatores
 - Cuidado com oferta mirabolantes
 - Mantenha o antivírus atualizado
+- Não baixe arquivos ou acesse domínios suspeitos
+- Reporte e-mails suspeitos
