@@ -1,5 +1,5 @@
-# Phishing-
-O objetivo é a criação de um Phishing para captura de senhas do Facebook / The objective is to create Phishing for capturing Facebook passwords.
+# Phishing
+O objetivo desse repositório é a criação de um Phishing para captura de senhas do Facebook, mostrar sua definição e como se proteger dessa ameaça / The purpose of this repository is to create a phishing scheme to capture Facebook passwords, demonstrate its definition, and how to protect yourself from this threat.
 
 Para isso foi utilizado as seguintes ferramentas / For this, the following tools were used: 
 
